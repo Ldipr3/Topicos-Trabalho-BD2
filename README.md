@@ -1,4 +1,4 @@
-# TRABALHO 01 : Título do trabalho
+# TRABALHO 01 : Academia de Musculação
 Trabalho desenvolvido durante a disciplina de BD
 
     O referido projeto poderá ser:
@@ -27,11 +27,13 @@ DICA:
 # Sumário
 
 ### 1	COMPONENTES<br>
+
 Douglas Campos Sutil
+
 Lucas Dipré Pereira
 
 ### 2	INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+Este documento contém a especificação do projeto do banco de dados de uma Academia de Musculação, que tem como objetivo modelar um sistema de criação, monitoramento e registro de exercícios fisicos para os alunos de uma academia, visando otimizar os treinamentos de acordo com as necessidades do aluno com um acompanhamento mais próximo do professor por meio das informações obtidas nos treinos <br>
       
 ### 3	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
