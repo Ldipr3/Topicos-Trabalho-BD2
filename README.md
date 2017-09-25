@@ -72,7 +72,15 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
 ### 6	MODELO LÓGICO<br>
+
+![Alt text](https://github.com/Ldipr3/Topicos-Trabalho-BD2/blob/master/Conceitual_1.png)
+
+
 ### 7	MODELO FÍSICO<br>
+
+![Alt text](https://github.com/Ldipr3/Topicos-Trabalho-BD2/blob/master/png_bd.png)
+
+
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
