@@ -66,7 +66,7 @@ Dentro da academia, o “Academia Monstrão” funciona sem depender da velocida
 
 ### 5	MODELO CONCEITUAL<br>
 #### 5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd2/topicos-trabalho/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/Ldipr3/Topicos-Trabalho-BD2/blob/master/Conceitual_1.png)
     
      5.2 NOTACAO UML (Caso esteja fazendo a disciplina de Projeto)
 
@@ -86,8 +86,6 @@ Dentro da academia, o “Academia Monstrão” funciona sem depender da velocida
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
 ### 6	MODELO LÓGICO<br>
-
-![Alt text](https://github.com/Ldipr3/Topicos-Trabalho-BD2/blob/master/Conceitual_1.png)
 
 
 ### 7	MODELO FÍSICO<br>
